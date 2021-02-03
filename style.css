@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+.timer > h1 {
+  padding: 20px;
+}
+
+.timer {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 50px;
+}
+.button {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.button>button {
+    font-size:  50px;
+    border-radius: 25px;
+}
+
+
